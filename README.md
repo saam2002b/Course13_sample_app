@@ -1,2 +1,2 @@
 # Course13_sample_app
-another test repository created from scratch
+another best repository created from scratch
